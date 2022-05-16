@@ -1,2 +1,2 @@
 # yuri
-A tokenizer for the toy language.
+A interpreter for the toy language.
